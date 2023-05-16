@@ -1,14 +1,15 @@
 <h1>
-  Hey! Nice to see you </br>
+  Hey! Nice to see you 👩🏼‍💻 </br>
 </h1>
+
 
 Welcome to my gitub </br>
 I'm Jisu, Back-End developer from South Korea 🇰🇷
-
+  
 </br>
 
 <h3>
-  My Tech Stack 🛠
+  ✨ My Tech Stack ✨
 </h3>
 
 <p>
