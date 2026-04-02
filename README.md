@@ -4,7 +4,6 @@
 
 
 Welcome to my gitub </br>
-I'm Jisu, Back-End developer from South Korea 🇰🇷
   
 </br>
 
